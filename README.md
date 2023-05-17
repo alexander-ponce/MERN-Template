@@ -1,6 +1,8 @@
 # PROJECT NAME
-## Client Side or Server Side
+## Client Side and Server Side
 
+Part 1-4:
 Short description
-* language used
-* list out programs/methods/tools needed
+* Added create and finding data
+* Added ability to delete and update
+* Structured it with view folder and involving Main.js
